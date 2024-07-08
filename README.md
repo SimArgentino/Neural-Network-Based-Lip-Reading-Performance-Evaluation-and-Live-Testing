@@ -6,4 +6,4 @@ passaggi installazione:
 1. python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
 2. pip install -r ./requirements.txt
 3. pip indstall dlib
-4. pip install opencv
+4. pip install opencv-python
