@@ -7,5 +7,3 @@ passaggi installazione:
 2. pip install -r ./requirements.txt
 3. pip indstall dlib
 4. pip install opencv-python
-
-todo: rinominare e creare cartella outputs
