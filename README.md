@@ -2,13 +2,6 @@
 
 <h2>📜 Project Description:</h2>
 
-characteristics:
-
-    Optimizer: Adam-RMSprop
-    Epochs: 30-60
-    Threshold selection percentile
-    Two different autoencoder models
-
 
 <h2>📊 Project Graph: </h2>
   
