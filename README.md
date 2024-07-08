@@ -45,9 +45,9 @@ CATS-online-anomaly-detection/Streamlit_result_visualization/models/
 
 Technologies used in the project:
 
-*   Kafka
+*   Opencv
 *   Tensorflow
-*   Streamlit
+*   dlib
 
 
 
