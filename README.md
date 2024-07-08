@@ -1,5 +1,3 @@
-<h1 align="center" id="title">Neural Network-Based Lip Reading: Performance Evaluation and Live Testing</h1>
-
 <p align="center"><img src="https://socialify.git.ci/SimArgentino/Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/image?font=KoHo&language=1&name=1&pattern=Circuit%20Board&theme=Light" alt="project-image"></p>
 
 <h2>📜 Project Description:</h2>
