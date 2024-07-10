@@ -10,28 +10,30 @@
 
 
 
-<h2>🛠️ Installation Steps:</h2>
-<p>To </p>
+<h2>🛠️ Dataset builder and live test installation steps:</h2>
+<p>We advise Python 3.8 to run our Dataset builder python app. </p>
 
-<p>1. Install requirements</p>
-
-```
-pip install -r ./CATS-online-anomaly-detection/Streamlit_result_visualization/requirements.txt
-```
-
-<p>2. Run</p>
+<p>1. Install the dlib specific wheel file:</p>
 
 ```
-streamlit run ./CATS-online-anomaly-detection/Streamlit_result_visualization/app.py
+python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
 ```
+
+<p>2. Install the required dependencies from the requirements.txt file:</p>
+
+```
+pip install -r ./requirements.txt
+```
+<p>2. Install the opencv-python and dlib library:</p>
+
+```
+pip indstall dlib
+pip install opencv-python
+```
+<p>You can the livetest with our weighs by downloading them [here](https://drive.google.com/file/d/1EaiRN1w-sJ7Ahcll4zIa-Fd4G8HHOjQl/view?usp=sharing)</p>
 
 <h2>🫵 Build your model </h2>
-You can swap the model by changing the model section in the notebook.
-After you save the model, move it in the following path:    
-
-```
-CATS-online-anomaly-detection/Streamlit_result_visualization/models/
-```
+You can swap the model by changing the model section in the notebooks.
 
 <h2>💻 Built with</h2>
 
@@ -40,20 +42,3 @@ Technologies used in the project:
 *   Opencv
 *   Tensorflow
 *   dlib
-
-
-
-
-
-
-
-
-download pesi: https://drive.google.com/file/d/1EaiRN1w-sJ7Ahcll4zIa-Fd4G8HHOjQl/view?usp=sharing
-
-ambiente virtuale python 3.8
-
-passaggi installazione:
-1. python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
-2. pip install -r ./requirements.txt
-3. pip indstall dlib
-4. pip install opencv-python
