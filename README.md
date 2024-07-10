@@ -5,7 +5,7 @@
 
 <h2>📊 Project Workflow: </h2>
   
-(![Screenshot 2024-07-10 213330](https://github.com/SimArgentino/Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/assets/93777986/7fdea7e0-d326-4cf1-85bb-6d957a5ef179)
+![Screenshot 2024-07-10 213330](https://github.com/SimArgentino/Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/assets/93777986/7fdea7e0-d326-4cf1-85bb-6d957a5ef179)
 
 
 
