@@ -30,7 +30,8 @@ pip install -r ./requirements.txt
 pip indstall dlib
 pip install opencv-python
 ```
-<p>You can the livetest with our weighs by downloading them [here](https://drive.google.com/file/d/1EaiRN1w-sJ7Ahcll4zIa-Fd4G8HHOjQl/view?usp=sharing)</p>
+<p>You can the livetest with our weighs by downloading them here: </p>
+<p>https://drive.google.com/file/d/1EaiRN1w-sJ7Ahcll4zIa-Fd4G8HHOjQl/view?usp=sharing</p>
 
 <h2>🫵 Build your model </h2>
 You can swap the model by changing the model section in the notebooks.
