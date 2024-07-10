@@ -28,6 +28,12 @@ pip install -r ./requirements.txt
 pip indstall dlib
 pip install opencv-python
 ```
+
+<p>We advise Python 3.8 to run our Dataset builder python app. </p>
+<p>If you want to use a different version of python, you can download the dlib-specific wheel file here: </p>
+<p>https://github.com/sachadee/Dlib</p>
+
+<h2> :blush: Test our results </h2>
 <p>You can use the live test with our weighs by downloading them here: </p>
 <p>https://drive.google.com/file/d/1EaiRN1w-sJ7Ahcll4zIa-Fd4G8HHOjQl/view?usp=sharing</p>
 and placing them in the following path:
@@ -35,9 +41,6 @@ and placing them in the following path:
 ```
 Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/Personaldataset_build_livetest
 ```
-<p>We advise Python 3.8 to run our Dataset builder python app. </p>
-<p>If you want to use a different version of python, you can download the dlib-specific wheel file here: </p>
-<p>https://github.com/sachadee/Dlib</p>
 
 <h2>🫵 Build your model </h2>
 You can swap the model by changing the model section in the notebooks.
