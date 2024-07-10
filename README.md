@@ -51,7 +51,7 @@ Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/Persona
 </p>
 
 <h2>🫵 Build your model </h2>
-You can swap the model by changing the model section in the notebooks.
+<p>You can easily modify and swap the model used in this project by adjusting the model section in the provided notebooks. This flexibility allows you to experiment with different architectures and fine-tune the performance according to your needs.</p>
 
 <h2>💻 Built with</h2>
 
