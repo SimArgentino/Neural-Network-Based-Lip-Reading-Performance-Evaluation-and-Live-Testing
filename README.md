@@ -7,6 +7,8 @@
 
 <p>The Python app not only facilitates the collection of a personal dataset but also supports live testing of the custom network. This real-time testing capability is crucial for practical applications of lip reading technology, such as assistive communication tools or silent speech interfaces.</p>
 
+<p>The results of this project offer valuable contributions to the field of automatic lip reading. By highlighting the strengths and limitations of MobileNet, VGG16, and a custom network, the project provides a comprehensive understanding of how different architectures perform in real-world scenarios.</p>
+
 <h2>📊 Project Workflow: </h2>
   
 ![Screenshot 2024-07-10 213330](https://github.com/SimArgentino/Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/assets/93777986/7fdea7e0-d326-4cf1-85bb-6d957a5ef179)
