@@ -3,9 +3,10 @@
 <h2>📜 Project Description:</h2>
 
 
-<h2>📊 Project Graph: </h2>
+<h2>📊 Project Workflow: </h2>
   
-  ![ProjectGraph](https://github.com/SimArgentino/CATS-online-anomaly-detection/assets/93777986/617f1036-a83a-4aff-9444-5c033e9b20ea)
+  ![ProjectGraph](![Screenshot 2024-07-10 213330](https://github.com/SimArgentino/Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/assets/93777986/7fdea7e0-d326-4cf1-85bb-6d957a5ef179)
+)
 
 
 
