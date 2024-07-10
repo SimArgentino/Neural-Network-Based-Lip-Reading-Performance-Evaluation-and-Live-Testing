@@ -24,7 +24,7 @@ python -m pip install dlib-19.22.99-cp38-cp38-win_amd64.whl
 ```
 pip install -r ./requirements.txt
 ```
-<p>2. Install the opencv-python and dlib library:</p>
+<p>3. Install the opencv-python and dlib library:</p>
 
 ```
 pip indstall dlib
