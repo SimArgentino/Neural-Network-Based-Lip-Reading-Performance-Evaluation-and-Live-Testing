@@ -1,7 +1,11 @@
 <p align="center"><img src="https://socialify.git.ci/SimArgentino/Neural-Network-Based-Lip-Reading-Performance-Evaluation-and-Live-Testing/image?font=KoHo&language=1&name=1&pattern=Circuit%20Board&theme=Light" alt="project-image"></p>
 
 <h2>📜 Project Description:</h2>
+<p>This project focuses on the evaluation and comparison of neural networks for lip reading tasks. Specifically, it examines the performance of two well-known architectures, MobileNet and VGG16, using the LRW (Lip Reading in the Wild) dataset. The LRW dataset is a comprehensive collection of video clips that capture various speakers pronouncing different words, providing a robust benchmark for testing lip reading models.</p>
 
+<p>The project goes beyond merely evaluating existing models. A custom neural network was developed and trained on a personal dataset, specifically collected to complement the LRW dataset. This personal dataset was gathered using a custom-built Python application, designed to record video clips of a single speaker saying various words. This approach allows for the fine-tuning of the custom network and provides a personalized context for performance evaluation.</p>
+
+<p>The Python app not only facilitates the collection of a personal dataset but also supports live testing of the custom network. This real-time testing capability is crucial for practical applications of lip reading technology, such as assistive communication tools or silent speech interfaces.</p>
 
 <h2>📊 Project Workflow: </h2>
   
